@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AndroidVerkkoOhjelmointi</string>
+    <string name="add_textbox_hint">Lisää tietue</string>
+    <string name="add_button_text">Lisää</string>
+    <string name="mobile_services">Azure Mobile Services -harjoitustyö</string>
+    <string name="menu_refresh">Päivitä</string>
+    <string name="checkbox_text">Item Text</string>
+    
+</resources>
